@@ -2,7 +2,8 @@
 
 ## Preview
 
-<img width="1441" height="805" alt="Screenshot 2026-02-25 162228" src="https://github.com/user-attachments/assets/13906a4d-7953-48fb-85d7-400c3d3a1104" />
+<img width="1432" height="798" alt="Screenshot 2026-02-25 162544" src="https://github.com/user-attachments/assets/c4e94f54-f6d6-41e7-b992-a140a8e9edc7" />
+
 
 ## Overview
 
