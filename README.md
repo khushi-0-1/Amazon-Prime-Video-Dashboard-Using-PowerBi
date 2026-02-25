@@ -2,7 +2,6 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](<img width="1438" height="804" alt="image" src="https://github.com/user-attachments/assets/84e6865f-13fa-4718-b08f-894579cfddd7" />)
 <img width="1441" height="805" alt="Screenshot 2026-02-25 162228" src="https://github.com/user-attachments/assets/13906a4d-7953-48fb-85d7-400c3d3a1104" />
 
 ## Overview
