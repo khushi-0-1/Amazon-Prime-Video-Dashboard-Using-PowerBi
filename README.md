@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi/blob/main/Amazon%20Prime%20Video%20Dashboard%20by%20Shaikh%20Minhaj.png)
+![Amazon Prime Video Dashboard Preview](<img width="1438" height="804" alt="image" src="https://github.com/user-attachments/assets/84e6865f-13fa-4718-b08f-894579cfddd7" />)
 
 ## Overview
 
@@ -27,4 +27,4 @@ To explore the dashboard:
 
 ## Contact
 
-For inquiries and collaborations, feel free to reach out to sdeminhaj@gmail.com.
+For inquiries and collaborations, feel free to reach out to githubkhushi@gmail.com.
