@@ -22,7 +22,7 @@ To explore the dashboard:
 
 1. Download Power BI desktop application.
 2. Clone this repository.
-3. Open `Amazon_Prime_Video_Dashboard.pbix` with Power BI.
+3. Open `Amazon Prime Video Dashboard.pbix` with Power BI.
 4. Interact with the dashboard.
 
 ## Contact
